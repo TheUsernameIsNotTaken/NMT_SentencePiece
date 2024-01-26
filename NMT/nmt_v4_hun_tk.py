@@ -421,43 +421,6 @@ def translate_sentence(input_seq):
 
     return output_sentence
 
-print(encoder_input_sequences[11])
-
-# Added a small test set for alternative validation
-small_testset_in = ["Hi!", "How are you?",
-                 "I am not well.", "I hate mondays.",
-                 "Oh, me too.", "I like this.",
-                 "I cannot believe it.", "This is sad.",
-                 "Let's play the piano.", "Call me Mr. Seven."]
-small_testset_out = ["Szia!", "Hogy vagy?",
-                 "Nem jól.", "Utálom a hétfőket.",
-                 "Oh, én is.", "Szeretem ezt.",
-                 "Nem tudom elhinni.", "Ez szomorú.",
-                 "Játszunk a zongorán.", "Csak hívj Mr. Sevennek."]
-zero_start = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-#for i in range(encoder_input_sequences.shape[1]):
-#    zero_start.append(0)
-test_seq_in_raw = [(sp_eng.encode_as_ids(in_sentence)) for in_sentence in small_testset_in]
-print(test_seq_in_raw)
-
-for n, input_seq in enumerate(test_seq_in_raw):
-    # Convert normal sentences to input vectors
-    seq_to_pass = np.zeros(encoder_input_sequences.shape[1])
-    i = encoder_input_sequences.shape[1] - 1
-    j = len(input_seq) - 1
-    while j >= 0:
-        seq_to_pass[i] = input_seq[j]
-        i -= 1
-        j -= 1
-    print(seq_to_pass)
-    # Translate
-    translation = translate_sentence(input_seq)
-    print(f"--- #{n} ---")
-    print('Input Language : ', small_testset_in[n])
-    print('Actual translation : ', small_testset_out[n])
-    print('Hungarian translation : ', translation)
-
-"""
 n = 0
 while n < 40:
     #i = np.random.choice(len(input_sentences))
@@ -470,4 +433,4 @@ while n < 40:
     print('Actual translation : ', output_sentences[i])
     print('Hungarian translation : ', transtaled_sentence)
     n += 1
-"""
+

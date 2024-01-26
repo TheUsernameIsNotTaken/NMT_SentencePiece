@@ -1,0 +1,68 @@
+
+Model: "model"
+__________________________________________________________________________________________________
+ Layer (type)                Output Shape                 Param #   Connected to                  
+==================================================================================================
+ input_1 (InputLayer)        [(None, 10)]                 0         []                            
+                                                                                                  
+ input_2 (InputLayer)        [(None, 19)]                 0         []                            
+                                                                                                  
+ embedding (Embedding)       (None, 10, 200)              600000    ['input_1[0][0]']             
+                                                                                                  
+ embedding_1 (Embedding)     (None, 19, 256)              768256    ['input_2[0][0]']             
+                                                                                                  
+ lstm (LSTM)                 [(None, 256),                467968    ['embedding[0][0]']           
+                              (None, 256),                                                        
+                              (None, 256)]                                                        
+                                                                                                  
+ lstm_1 (LSTM)               [(None, 19, 256),            525312    ['embedding_1[0][0]',         
+                              (None, 256),                           'lstm[0][1]',                
+                              (None, 256)]                           'lstm[0][2]']                
+                                                                                                  
+ dense (Dense)               (None, 19, 3001)             771257    ['lstm_1[0][0]']              
+                                                                                                  
+==================================================================================================
+Total params: 3132793 (11.95 MB)
+Trainable params: 3132793 (11.95 MB)
+Non-trainable params: 0 (0.00 Byte)
+__________________________________________________________________________________________________
+Epoch 1/20
+282/282 [==============================] - 60s 194ms/step - loss: 1.8201 - accuracy: 0.7387 - val_loss: 1.7449 - val_accuracy: 0.7448
+Epoch 2/20
+282/282 [==============================] - 62s 220ms/step - loss: 1.4458 - accuracy: 0.7843 - val_loss: 1.7047 - val_accuracy: 0.7457
+Epoch 3/20
+282/282 [==============================] - 51s 180ms/step - loss: 1.4031 - accuracy: 0.7869 - val_loss: 1.6570 - val_accuracy: 0.7497
+Epoch 4/20
+282/282 [==============================] - 51s 181ms/step - loss: 1.3590 - accuracy: 0.7914 - val_loss: 1.6239 - val_accuracy: 0.7508
+Epoch 5/20
+282/282 [==============================] - 52s 184ms/step - loss: 1.3126 - accuracy: 0.7964 - val_loss: 1.5772 - val_accuracy: 0.7572
+Epoch 6/20
+282/282 [==============================] - 50s 179ms/step - loss: 1.2710 - accuracy: 0.7996 - val_loss: 1.5475 - val_accuracy: 0.7592
+Epoch 7/20
+282/282 [==============================] - 51s 181ms/step - loss: 1.2344 - accuracy: 0.8020 - val_loss: 1.5291 - val_accuracy: 0.7596
+Epoch 8/20
+282/282 [==============================] - 52s 183ms/step - loss: 1.2008 - accuracy: 0.8048 - val_loss: 1.4998 - val_accuracy: 0.7637
+Epoch 9/20
+282/282 [==============================] - 49s 173ms/step - loss: 1.1703 - accuracy: 0.8075 - val_loss: 1.4750 - val_accuracy: 0.7666
+Epoch 10/20
+282/282 [==============================] - 53s 188ms/step - loss: 1.1416 - accuracy: 0.8104 - val_loss: 1.4550 - val_accuracy: 0.7697
+Epoch 11/20
+282/282 [==============================] - 63s 222ms/step - loss: 1.1152 - accuracy: 0.8126 - val_loss: 1.4416 - val_accuracy: 0.7713
+Epoch 12/20
+282/282 [==============================] - 62s 219ms/step - loss: 1.0895 - accuracy: 0.8151 - val_loss: 1.4220 - val_accuracy: 0.7741
+Epoch 13/20
+282/282 [==============================] - 54s 193ms/step - loss: 1.0654 - accuracy: 0.8172 - val_loss: 1.4050 - val_accuracy: 0.7738
+Epoch 14/20
+282/282 [==============================] - 53s 188ms/step - loss: 1.0421 - accuracy: 0.8194 - val_loss: 1.3920 - val_accuracy: 0.7776
+Epoch 15/20
+282/282 [==============================] - 69s 245ms/step - loss: 1.0201 - accuracy: 0.8214 - val_loss: 1.3888 - val_accuracy: 0.7764
+Epoch 16/20
+282/282 [==============================] - 64s 227ms/step - loss: 0.9986 - accuracy: 0.8237 - val_loss: 1.3630 - val_accuracy: 0.7805
+Epoch 17/20
+282/282 [==============================] - 66s 235ms/step - loss: 0.9776 - accuracy: 0.8256 - val_loss: 1.3373 - val_accuracy: 0.7832
+Epoch 18/20
+282/282 [==============================] - 65s 232ms/step - loss: 0.9572 - accuracy: 0.8276 - val_loss: 1.3353 - val_accuracy: 0.7831
+Epoch 19/20
+282/282 [==============================] - 59s 210ms/step - loss: 0.9378 - accuracy: 0.8294 - val_loss: 1.3092 - val_accuracy: 0.7858
+Epoch 20/20
+282/282 [==============================] - 54s 192ms/step - loss: 0.9186 - accuracy: 0.8315 - val_loss: 1.3023 - val_accuracy: 0.7862

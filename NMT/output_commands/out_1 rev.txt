@@ -1,0 +1,361 @@
+--- #0 ---
+Input Language :  Menj!
+Actual translation :  Go. <eos>
+English translation :  go yourself.
+1/1 [==============================] - 0s 38ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #1 ---
+Input Language :  Vesztettem.
+Actual translation :  I lost. <eos>
+English translation :  i got it.
+1/1 [==============================] - 0s 27ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 33ms/step
+--- #2 ---
+Input Language :  Dobd el!
+Actual translation :  Drop it! <eos>
+English translation :  take it away.
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #3 ---
+Input Language :  Nyisd ki!
+Actual translation :  Open up. <eos>
+English translation :  get out out.
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #4 ---
+Input Language :  Szerezd vissza!
+Actual translation :  Get back. <eos>
+English translation :  go back.
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 38ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 36ms/step
+1/1 [==============================] - 0s 34ms/step
+--- #5 ---
+Input Language :  Én fizetek.
+Actual translation :  I'll pay. <eos>
+English translation :  i go to back.
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 38ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 31ms/step
+--- #6 ---
+Input Language :  Elmehetek?
+Actual translation :  May I go? <eos>
+English translation :  i can go it.
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #7 ---
+Input Language :  Milyen jó szórakozás!
+Actual translation :  What fun! <eos>
+English translation :  how about a nice
+1/1 [==============================] - 0s 26ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 34ms/step
+--- #8 ---
+Input Language :  Készülj fel!
+Actual translation :  Get ready. <eos>
+English translation :  get yourself.
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #9 ---
+Input Language :  Találkoztam Tamással.
+Actual translation :  I met Tom. <eos>
+English translation :  i let tom go tom.
+1/1 [==============================] - 0s 26ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 34ms/step
+--- #10 ---
+Input Language :  Ideges vagyok.
+Actual translation :  I'm upset. <eos>
+English translation :  i'm i'm
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 43ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #11 ---
+Input Language :  Hadd legyen!
+Actual translation :  Let it be. <eos>
+English translation :  let me go.
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 36ms/step
+--- #12 ---
+Input Language :  Most indulj.
+Actual translation :  Start now. <eos>
+English translation :  now we go now?
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #13 ---
+Input Language :  Böjtöltünk.
+Actual translation :  We fasted. <eos>
+English translation :  we got it.
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #14 ---
+Input Language :  Egyedül jöjjél!
+Actual translation :  Come alone. <eos>
+English translation :  he came alone.
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #15 ---
+Input Language :  Megcsinálta.
+Actual translation :  He made it. <eos>
+English translation :  do you like it?
+1/1 [==============================] - 0s 27ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #16 ---
+Input Language :  Utálom Tomot.
+Actual translation :  I hate Tom. <eos>
+English translation :  i hate tom.
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #17 ---
+Input Language :  Megpróbáltam.
+Actual translation :  I tried it. <eos>
+English translation :  i want it.
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 33ms/step
+--- #18 ---
+Input Language :  Ne foglalkozz Tomival!
+Actual translation :  Ignore Tom. <eos>
+English translation :  don't let tom.
+1/1 [==============================] - 0s 26ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 32ms/step
+--- #19 ---
+Input Language :  Maradj mozdulatlan!
+Actual translation :  Keep still. <eos>
+English translation :  stay stay
+1/1 [==============================] - 0s 34ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 33ms/step
+--- #20 ---
+Input Language :  Állj félre!
+Actual translation :  Step aside. <eos>
+English translation :  stop down!
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #21 ---
+Input Language :  Tom ugrott.
+Actual translation :  Tom jumped. <eos>
+English translation :  tom was back.
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 33ms/step
+--- #22 ---
+Input Language :  Elfoglaltak vagyunk.
+Actual translation :  We're busy. <eos>
+English translation :  we're ready.
+1/1 [==============================] - 0s 27ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 29ms/step
+--- #23 ---
+Input Language :  Kérd Tomit.
+Actual translation :  Ask for Tom. <eos>
+English translation :  go to tom.
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #24 ---
+Input Language :  Dobj fel egy érmét!
+Actual translation :  Flip a coin. <eos>
+English translation :  take a a scumbag.
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 29ms/step
+--- #25 ---
+Input Language :  Hogy ityeg?
+Actual translation :  How are you? <eos>
+English translation :  how are you?
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 31ms/step
+--- #26 ---
+Input Language :  Utálom a macskákat!
+Actual translation :  I hate cats. <eos>
+English translation :  i hate my dog.
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 37ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 34ms/step
+--- #27 ---
+Input Language :  Nekem ennél többre van szükségem.
+Actual translation :  I need more. <eos>
+English translation :  i need more.
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 35ms/step
+--- #28 ---
+Input Language :  Sikítani fogok.
+Actual translation :  I'll scream. <eos>
+English translation :  i'll go to help.
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 30ms/step
+--- #29 ---
+Input Language :  Ködös idő van?
+Actual translation :  Is it foggy? <eos>
+English translation :  it's time.
+1/1 [==============================] - 0s 27ms/step
+1/1 [==============================] - 0s 35ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 31ms/step
+--- #30 ---
+Input Language :  Táncra fel!
+Actual translation :  Let's dance. <eos>
+English translation :  let's go on.
+1/1 [==============================] - 0s 26ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 36ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 28ms/step
+--- #31 ---
+Input Language :  Meg se szólalj!
+Actual translation :  Say nothing. <eos>
+English translation :  don't one cry.
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 29ms/step
+--- #32 ---
+Input Language :  Vártak.
+Actual translation :  They waited. <eos>
+English translation :  they went back.
+1/1 [==============================] - 0s 25ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 29ms/step
+--- #33 ---
+Input Language :  Tom rendes.
+Actual translation :  Tom is neat. <eos>
+English translation :  tom is a teacher.
+1/1 [==============================] - 0s 26ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 34ms/step
+--- #34 ---
+Input Language :  Tom vicces.
+Actual translation :  Tom's funny. <eos>
+English translation :  tom is sad.
+1/1 [==============================] - 0s 27ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 28ms/step
+--- #35 ---
+Input Language :  Unatkozunk.
+Actual translation :  We're bored. <eos>
+English translation :  we're going back.
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 31ms/step
+--- #36 ---
+Input Language :  Ismered.
+Actual translation :  You know it. <eos>
+English translation :  do you know it?
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 33ms/step
+--- #37 ---
+Input Language :  Eltévedt?
+Actual translation :  Are you lost? <eos>
+English translation :  she got angry.
+1/1 [==============================] - 0s 27ms/step
+1/1 [==============================] - 0s 33ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 34ms/step
+--- #38 ---
+Input Language :  Tarts velünk.
+Actual translation :  Come with us. <eos>
+English translation :  come with us.
+1/1 [==============================] - 0s 29ms/step
+1/1 [==============================] - 0s 30ms/step
+1/1 [==============================] - 0s 31ms/step
+1/1 [==============================] - 0s 32ms/step
+1/1 [==============================] - 0s 28ms/step
+1/1 [==============================] - 0s 31ms/step
+--- #39 ---
+Input Language :  Add nekem a felét!
+Actual translation :  Give me half. <eos>
+English translation :  give me the bag.

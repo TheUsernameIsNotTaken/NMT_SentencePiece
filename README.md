@@ -2,6 +2,8 @@
 
 Three different kind of Neural Machine Translation model, for ENG-HUN and HUN-ENG tranlation.
 
+### Warning : Could only add the Model 2 and Model 3 "*.keras" models, since Model 1 was too big to upload (but it can be trained by the codes).
+
 ## See report [HERE](NMT_report_MV.pdf)
 
 To be able to run it, you will need [glove.twitter.27B.200d.txt](https://www.kaggle.com/datasets/larryfreeman/glove-twitter-27b-200d-txt) for embedding.

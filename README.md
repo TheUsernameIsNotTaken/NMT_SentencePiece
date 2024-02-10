@@ -1,3 +1,5 @@
+## Errors in NMT - See the report [HERE](Error_report_MV.pdf) 
+
 # NMT_SentencePiece
 
 Three different kind of Neural Machine Translation model, for ENG-HUN and HUN-ENG tranlation.
@@ -20,4 +22,3 @@ To use these codes, you will need the following Packages too:
 - graphviz
 - pydot-ng
 - sentencepiece
-  
